@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.29)  13 OCT 2022 10:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.29)  13 OCT 2022 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -361,7 +361,7 @@ Here is how much of TeX's memory you used:
  28112 multiletter control sequences out of 15000+600000
  482597 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,875b,487s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,8n,77p,699b,487s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\
 csr6.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
 00\tcrm1000.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cs
@@ -382,9 +382,9 @@ public/csfonts/dpi600\csr9.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/l
 jfour/public/csfonts/dpi600\csr12.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Andrej\AppData\Local\MiK
 TeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on projekt.pdf (2 pages, 123142 bytes).
+Output written on projekt.pdf (2 pages, 122088 bytes).
 PDF statistics:
- 446 PDF objects out of 1000 (max. 8388607)
+ 443 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
