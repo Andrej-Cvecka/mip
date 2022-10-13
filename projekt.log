@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.29)  13 OCT 2022 10:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.29)  13 OCT 2022 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -255,30 +255,29 @@ ftex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box51
-)
-No file projekt.aux.
+) (projekt.aux)
 \openout1 = `projekt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 
 (C:\Users\Andrej\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
@@ -305,103 +304,75 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 31.
+ (projekt.out) (projekt.out)
 \@outlinefile=\write3
 \openout3 = `projekt.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 33.
+(Font)              <17.28> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 33.
+(Font)              <12> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
+(Font)              <6> on input line 34.
 LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
-33.
+34.
 
 (C:\Users\Andrej\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
+(Font)              <5> on input line 34.
 
-
-LaTeX Warning: Reference `nejaka' on page 1 undefined on input line 45.
-
-
-LaTeX Warning: Reference `dolezita' on page 1 undefined on input line 46.
-
-
-LaTeX Warning: Reference `dolezitejsia' on page 1 undefined on input line 46.
-
-
-LaTeX Warning: Reference `zaver' on page 1 undefined on input line 47.
-
-
-LaTeX Warning: Reference `f:rozhod' on page 1 undefined on input line 53.
-
-
-LaTeX Warning: Reference `ina:nejake' on page 1 undefined on input line 67.
-
-
-LaTeX Warning: Reference `ina:nejake' on page 1 undefined on input line 67.
-
+(abstrakt.tex)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 67.
+(Font)              <7> on input line 68.
+ [1
 
-LaTeX Warning: Citation `Coplien:MPD' on page 1 undefined on input line 69.
+{C:/Users/Andrej/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+LaTeX Warning: Citation `Coplien:MPD' on page 2 undefined on input line 70.
 
 
-LaTeX Warning: Citation `Czarnecki:Staged' on page 1 undefined on input line 69
+LaTeX Warning: Citation `Czarnecki:Staged' on page 2 undefined on input line 70
 .
 
 
-LaTeX Warning: Citation `Czarnecki:Progress' on page 1 undefined on input line 
-69.
+LaTeX Warning: Citation `Czarnecki:Progress' on page 2 undefined on input line 
+70.
 
 
-LaTeX Warning: Citation `PLP-Framework' on page 1 undefined on input line 69.
+LaTeX Warning: Citation `PLP-Framework' on page 2 undefined on input line 70.
 
-[1
-
-{C:/Users/Andrej/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 No file projekt.bbl.
 [2] (projekt.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `projekt.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `projekt.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  DCA731DA2FC82593BB099E907EB500F3;982.
+Package rerunfilecheck Info: File `projekt.out' has not changed.
+(rerunfilecheck)             Checksum: DCA731DA2FC82593BB099E907EB500F3;982.
  ) 
 Here is how much of TeX's memory you used:
- 9811 strings out of 478338
- 157789 string characters out of 2836228
- 472843 words of memory out of 3000000
- 28101 multiletter control sequences out of 15000+600000
+ 9831 strings out of 478338
+ 158135 string characters out of 2836228
+ 473350 words of memory out of 3000000
+ 28112 multiletter control sequences out of 15000+600000
  482597 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,343b,541s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
-m1000.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/
-dpi600\csbx12.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/
-csfonts/dpi600\cssl10.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour
-/public/csfonts/dpi600\csr6.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/
-ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\Andrej\AppData\Local\MiK
-TeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\Andrej\AppData\L
-ocal\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr7.pk> <C:\Users\Andrej\App
-Data\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\An
-drej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\
+ 72i,8n,77p,875b,487s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\
+csr6.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
+00\tcrm1000.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cs
+fonts/dpi600\csbx12.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/p
+ublic/csfonts/dpi600\csti10.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/
+ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\f
+onts/pk/ljfour/public/csfonts/dpi600\csr7.pk> <C:\Users\Andrej\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\Andrej\AppData\
+Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\Andrej\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\An
+drej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\
 Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.p
 k> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\
 csbx12.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts
@@ -411,9 +382,9 @@ public/csfonts/dpi600\csr9.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fonts/pk/l
 jfour/public/csfonts/dpi600\csr12.pk> <C:\Users\Andrej\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Andrej\AppData\Local\MiK
 TeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on projekt.pdf (2 pages, 106229 bytes).
+Output written on projekt.pdf (2 pages, 123142 bytes).
 PDF statistics:
- 378 PDF objects out of 1000 (max. 8388607)
+ 446 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
